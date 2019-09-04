@@ -90,14 +90,14 @@
   Link: </styles-6c475521871278f29532.js>; rel=preload; as=script
   Link: </1-4b2242ede1ebff619a14.js>; rel=preload; as=script
   Link: </component---src-templates-not-found-template-js-a7ffc631c2662a6931cd.js>; rel=preload; as=script
-/pages/contacts/
+/pages/about/
   Link: </webpack-runtime-4c30318a363d02d43aa9.js>; rel=preload; as=script
   Link: </styles-6c475521871278f29532.js>; rel=preload; as=script
   Link: </app-be077d342ccef9634334.js>; rel=preload; as=script
   Link: </styles-6c475521871278f29532.js>; rel=preload; as=script
   Link: </1-4b2242ede1ebff619a14.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-99d8f86462117a091237.js>; rel=preload; as=script
-/pages/about/
+/pages/contacts/
   Link: </webpack-runtime-4c30318a363d02d43aa9.js>; rel=preload; as=script
   Link: </styles-6c475521871278f29532.js>; rel=preload; as=script
   Link: </app-be077d342ccef9634334.js>; rel=preload; as=script
@@ -112,6 +112,14 @@
   Link: </1-4b2242ede1ebff619a14.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-99d8f86462117a091237.js>; rel=preload; as=script
 /posts/git-setup/
+  Link: </webpack-runtime-4c30318a363d02d43aa9.js>; rel=preload; as=script
+  Link: </styles-6c475521871278f29532.js>; rel=preload; as=script
+  Link: </app-be077d342ccef9634334.js>; rel=preload; as=script
+  Link: </styles-6c475521871278f29532.js>; rel=preload; as=script
+  Link: </1-4b2242ede1ebff619a14.js>; rel=preload; as=script
+  Link: </2-0663d8a6af66d3f6fc43.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-18601ff719cc5f00f8a4.js>; rel=preload; as=script
+/posts/npm-setup/
   Link: </webpack-runtime-4c30318a363d02d43aa9.js>; rel=preload; as=script
   Link: </styles-6c475521871278f29532.js>; rel=preload; as=script
   Link: </app-be077d342ccef9634334.js>; rel=preload; as=script
@@ -135,15 +143,7 @@
   Link: </1-4b2242ede1ebff619a14.js>; rel=preload; as=script
   Link: </2-0663d8a6af66d3f6fc43.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-18601ff719cc5f00f8a4.js>; rel=preload; as=script
-/posts/npm-setup/
-  Link: </webpack-runtime-4c30318a363d02d43aa9.js>; rel=preload; as=script
-  Link: </styles-6c475521871278f29532.js>; rel=preload; as=script
-  Link: </app-be077d342ccef9634334.js>; rel=preload; as=script
-  Link: </styles-6c475521871278f29532.js>; rel=preload; as=script
-  Link: </1-4b2242ede1ebff619a14.js>; rel=preload; as=script
-  Link: </2-0663d8a6af66d3f6fc43.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-18601ff719cc5f00f8a4.js>; rel=preload; as=script
-/posts/webpack-boilerplate/
+/posts/cleanup-node-modules-recursively/
   Link: </webpack-runtime-4c30318a363d02d43aa9.js>; rel=preload; as=script
   Link: </styles-6c475521871278f29532.js>; rel=preload; as=script
   Link: </app-be077d342ccef9634334.js>; rel=preload; as=script
@@ -159,7 +159,7 @@
   Link: </1-4b2242ede1ebff619a14.js>; rel=preload; as=script
   Link: </2-0663d8a6af66d3f6fc43.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-18601ff719cc5f00f8a4.js>; rel=preload; as=script
-/posts/cleanup-node-modules-recursively/
+/posts/react-redux-saga/
   Link: </webpack-runtime-4c30318a363d02d43aa9.js>; rel=preload; as=script
   Link: </styles-6c475521871278f29532.js>; rel=preload; as=script
   Link: </app-be077d342ccef9634334.js>; rel=preload; as=script
@@ -167,7 +167,7 @@
   Link: </1-4b2242ede1ebff619a14.js>; rel=preload; as=script
   Link: </2-0663d8a6af66d3f6fc43.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-18601ff719cc5f00f8a4.js>; rel=preload; as=script
-/posts/react-redux-saga/
+/posts/webpack-boilerplate/
   Link: </webpack-runtime-4c30318a363d02d43aa9.js>; rel=preload; as=script
   Link: </styles-6c475521871278f29532.js>; rel=preload; as=script
   Link: </app-be077d342ccef9634334.js>; rel=preload; as=script
